@@ -1,7 +1,7 @@
 # CyberSecurity_Task_3
 
 ## Task: Perform a Basic Vulnerability Scan on Your PC
-### 🛠 Tool Used: OpenVAS 
+### Tool Used: OpenVAS 
 
 
 ## Objective
